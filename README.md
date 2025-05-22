@@ -71,6 +71,9 @@ Use Insert activity to push data into an SQL table.
 
 ![image](https://github.com/user-attachments/assets/e08daccc-ba8d-4dea-b809-dcf239d72512)
 
+
+
+.
 ![image](https://github.com/user-attachments/assets/c30ab3b5-4c7f-4000-8da2-852e9db1c9d3)
 
 ## Result
