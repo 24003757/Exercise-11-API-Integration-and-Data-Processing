@@ -1,7 +1,7 @@
 # Exercise-11-API-Integration-and-Data-Processing
 ~~~
-Name : m.johnpall 
-Reg.No : 212224040140
+Name :Vinolia Alaina .R
+Reg.No : 212224240184
 ~~~
 
 ## Aim
